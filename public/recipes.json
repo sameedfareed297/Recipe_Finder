@@ -1,0 +1,18 @@
+[
+    {
+      "strMeal": "Chicken Fajitas",
+      "strMealThumb": "/images/download.jpg"
+    },
+    {
+      "strMeal": "Biryani",
+      "strMealThumb": "/images/biryani.jpg"
+    },
+    {
+      "strMeal": "Vegetable Soup",
+      "strMealThumb": "/images/vegsoup.jpg"
+    },
+    {
+      "strMeal": "Beef Steak",
+      "strMealThumb": "/images/images.jpg"
+    }
+  ]
